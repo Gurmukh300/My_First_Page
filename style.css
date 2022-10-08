@@ -79,6 +79,9 @@ i {
   .container {
     width: 700px;
   }
+  p{
+    font-size: 14px;
+  }
 }
 
 @media (max-width: 720px) {
@@ -92,5 +95,11 @@ i {
 
   .container {
     width: 300px;
+  }
+  h2{
+    font-size: 20px;
+  }
+  p{
+    font-size: 14px;
   }
 }
